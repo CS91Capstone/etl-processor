@@ -1,4 +1,4 @@
-# ETL PROCESSOR
+# ETL Processor
 ETL Processor
 After the Campsites table has been created in the MYSQL database, use the Silver_Gold_Schemas.sql to create the silver/gold tables
 
